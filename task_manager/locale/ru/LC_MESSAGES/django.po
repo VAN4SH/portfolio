@@ -159,12 +159,12 @@ msgstr "метки"
 
 #: task_manager/tasks/models.py:56
 msgid "Task"
-msgstr "Задача"
+msgstr "Достижение"
 
 #: task_manager/tasks/models.py:57 task_manager/tasks/views.py:19
 #: task_manager/templates/navbar.html:18
 msgid "Tasks"
-msgstr "Задачи"
+msgstr "Достижения"
 
 #: task_manager/tasks/views.py:20
 msgid "Show"

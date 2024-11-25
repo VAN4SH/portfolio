@@ -205,7 +205,7 @@ msgstr "Удаление задачи"
 #: task_manager/templates/base.html:13 task_manager/templates/home.html:9
 #: task_manager/templates/navbar.html:4
 msgid "Task manager"
-msgstr "Менеджер задач"
+msgstr "Менеджер портфолио"
 
 #: task_manager/templates/home.html:10
 msgid "Django web application"

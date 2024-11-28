@@ -39,21 +39,21 @@ msgstr "Дата создания"
 
 #: task_manager/labels/models.py:21 task_manager/tasks/filters.py:24
 msgid "Label"
-msgstr "Метка"
+msgstr "Призовое место"
 
 #: task_manager/labels/models.py:22 task_manager/labels/views.py:16
 #: task_manager/templates/navbar.html:15
 #: task_manager/templates/tasks/task_show.html:43
 msgid "Labels"
-msgstr "Метки"
+msgstr "Призовые места"
 
 #: task_manager/labels/views.py:25
 msgid "Label is successfully created"
-msgstr "Метка успешно создана"
+msgstr "Место успешно добавлено"
 
 #: task_manager/labels/views.py:27 task_manager/templates/labels/list.html:9
 msgid "Create label"
-msgstr "Создать метку"
+msgstr "Добавить призовое место"
 
 #: task_manager/labels/views.py:28 task_manager/statuses/views.py:28
 #: task_manager/tasks/views.py:41
@@ -66,7 +66,7 @@ msgstr "Метка успешно изменена"
 
 #: task_manager/labels/views.py:39
 msgid "Change label"
-msgstr "Изменение метки"
+msgstr "Изменение призового места"
 
 #: task_manager/labels/views.py:40 task_manager/statuses/views.py:40
 #: task_manager/tasks/views.py:57
@@ -75,15 +75,15 @@ msgstr "Изменить"
 
 #: task_manager/labels/views.py:49
 msgid "Label is successfully deleted"
-msgstr "Метка успешно удалена"
+msgstr "Призовое место успешно удалено"
 
 #: task_manager/labels/views.py:50
 msgid "Unable to delete a label because it is in use"
-msgstr "Невозможно удалить метку, потому что она используется"
+msgstr "Невозможно удалить место, потому что оно используется"
 
 #: task_manager/labels/views.py:53
 msgid "Delete label"
-msgstr "Удаление метки"
+msgstr "Удаление места"
 
 #: task_manager/labels/views.py:54 task_manager/statuses/views.py:54
 #: task_manager/tasks/views.py:71 task_manager/users/views.py:61
@@ -98,41 +98,41 @@ msgstr "Вы не авторизованы! Пожалуйста, выполни
 #: task_manager/tasks/models.py:35 task_manager/templates/tasks/list.html:25
 #: task_manager/templates/tasks/task_show.html:32
 msgid "Status"
-msgstr "Статус"
+msgstr "Место проведения"
 
 #: task_manager/statuses/models.py:22 task_manager/statuses/views.py:16
 #: task_manager/templates/navbar.html:12
 msgid "Statuses"
-msgstr "Статусы"
+msgstr "Места проведения"
 
 #: task_manager/statuses/views.py:25
 msgid "Status is successfully created"
-msgstr "Статус успешно создан"
+msgstr "Место проведения успешно добавлено"
 
 #: task_manager/statuses/views.py:27
 #: task_manager/templates/statuses/list.html:9
 msgid "Create status"
-msgstr "Создать статус"
+msgstr "Добавить место проведения"
 
 #: task_manager/statuses/views.py:37
 msgid "Status is successfully changed"
-msgstr "Статус успешно изменен"
+msgstr "Место проведения успешно изменено"
 
 #: task_manager/statuses/views.py:39
 msgid "Change status"
-msgstr "Изменение статуса"
+msgstr "Изменение места проведения"
 
 #: task_manager/statuses/views.py:49
 msgid "Status is successfully deleted"
-msgstr "Статус успешно удален"
+msgstr "Место проведения успешно удалено"
 
 #: task_manager/statuses/views.py:50
 msgid "Unable to delete a status because it is in use"
-msgstr "Невозможно удалить статус, потому что он используется"
+msgstr "Невозможно удалить место проведения мероприятия, потому что оно используется"
 
 #: task_manager/statuses/views.py:53
 msgid "Delete status"
-msgstr "Удаление статуса"
+msgstr "Удаление места проведения"
 
 #: task_manager/tasks/filters.py:19 task_manager/tasks/models.py:41
 #: task_manager/templates/tasks/list.html:27
